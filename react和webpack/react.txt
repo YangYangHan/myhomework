@@ -1,0 +1,26 @@
+1.npm install -g create-react-app
+create-react-app demo-app
+cd demo-app
+上面是第一次全局安装create-react-app并进入的过程
+
+以后新建项目只要执行
+create-react-app demo-app
+cd demo-app
+就可以了
+
+
+
+2.方法二：快速安装
+npm install yarn -g
+yarn add create-react-app
+
+create-react-app demo-app
+cd demo-app
+上面是第一次安装yarn并新建项目的过程，以后新建项目只要执行下面即可
+create-react-app demo-app
+cd demo-app
+
+
+3.安装路由
+npm方法：npm install react-router-dom
+yarn方法：yarn add react-router-dom

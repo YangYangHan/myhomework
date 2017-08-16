@@ -1,0 +1,3 @@
+npm install webpack --save
+npm install --save-dev babel-loader babel-core babel-preset-env webpack
+www.cnblogs.com/doudoujun/p/6405534.html
